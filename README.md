@@ -1,5 +1,4 @@
-# 정다연
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dayeon%20Jeong&fontSize=90)
 <aside>
 
 #### 👋 "더 나은 모델을 만드는 것이 아니라, 더 나은 결과를 만드는 것.”
